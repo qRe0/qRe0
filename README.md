@@ -8,7 +8,7 @@ Currently, I'm studying on the second course of Faculty of Applied Mathematics a
   • OOP
   • STL
   • Algorithms and Data Structures
-  • Operation Systems
+  • Operation Systems and Networks
   
 ✦ Golang
   • Language basics
