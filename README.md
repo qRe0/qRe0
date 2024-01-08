@@ -24,7 +24,7 @@ Currently, I'm studying on the second course of Faculty of Applied Mathematics a
   • Discrete Maths
   
 ✦ PostgreSQL, MySQL 
-✦ Git, GitHub
+✦ Git, GitHub, Gitlab
 ✦ English (B2+)
   
 ✦ Soft Skills
