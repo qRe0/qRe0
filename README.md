@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hello there!👋 **I'm Yahor Malinouski**.<br>
 
-Currently, I'm studying on the second course of Faculty of Applied Mathematics and Informatics (*FAMCS*) in Belarusian State University (*BSU*).  I am interested in back-end development in C++ and Golang. I've been doing this for three years and never stop developing my knowledge and skills in chosen field.
+Currently, I'm studying on the second course of Faculty of Applied Mathematics and Informatics (*FAMCS*) in Belarusian State University (*BSU*). 
+I am interested in back-end development in C++ and Golang. I've been doing this for three years and never stop developing my knowledge and skills in chosen field.
 
 ## My skills:
 <pre>
