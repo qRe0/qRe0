@@ -8,7 +8,6 @@ Currently, I'm studying on the second course of Faculty of Applied Mathematics a
 ✦ С++
   • OOP
   • STL
-  • Algorithms and Data Structures
   • Operation Systems (WinAPI)
   
 ✦ Golang
@@ -26,6 +25,7 @@ Currently, I'm studying on the second course of Faculty of Applied Mathematics a
 ✦ PostgreSQL, MySQL 
 ✦ Git, GitHub, Gitlab
 ✦ English (B2+)
+✦ Algorithms and Data Structures
   
 ✦ Soft Skills
   • Communication
