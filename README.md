@@ -9,12 +9,12 @@ Currently, I'm studying on the second course of Faculty of Applied Mathematics a
   • OOP
   • STL
   • Algorithms and Data Structures
-  • Operation Systems and Networks
+  • Operation Systems (WinAPI)
   
 ✦ Golang
   • Language basics
   • Standart Packages
-  • Custom Packages
+  • Basics of http/net
   
 ✦ Mathematics
   • Linear algebra
