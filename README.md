@@ -34,6 +34,7 @@ Currently, I'm studying on the second course of Faculty of Applied Mathematics a
   • Belarusian (native)
 </pre>
 
+<pre>
 ## EXPERIENCE
   • BSU FAMCS 2022-2026
   • Alghoritms and Data Structures 2023 — educational course of FAMCS BSU
@@ -46,6 +47,7 @@ Currently, I'm studying on the second course of Faculty of Applied Mathematics a
     - "Get ptogramming with Go" book (N. Youngman, R. Peppé)
     - "Go in Practice" book (M. Butcher, M. Farina)
     - "Programming in Go: Creating Applications for the 21st Century" book (M. Summerfield)
+</pre>
 
 ## CONTACT
 ### +375(29) 692-00-48
