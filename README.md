@@ -34,8 +34,8 @@ Currently, I'm studying on the second course of Faculty of Applied Mathematics a
   • Belarusian (native)
 </pre>
 
-<pre>
 ## EXPERIENCE
+<pre>
   • BSU FAMCS 2022-2026
   • Alghoritms and Data Structures 2023 — educational course of FAMCS BSU
   • EPAM Warm-up 2023 — summer practice of BSU (complete course about Git, Gitlab, SQL, basics of C#)
