@@ -9,7 +9,7 @@ In my free time I prefer to do sports (cycling, volleyball, gym), read books, wa
 <pre>
 ✦ Golang
   • WEB-Scrapping — colly
-  • WEB — Gin, Beego, net/http
+  • WEB — Gin, net/http
   
 ✦ Mathematics
   • Linear algebra
