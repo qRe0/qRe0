@@ -22,6 +22,7 @@ In my free time I prefer to do sports (cycling, volleyball, gym), read books, wa
 ✦ Git, GitHub, Gitlab
 ✦ Algorithms and Data Structures
 ✦ PostgreSQL, SQLite
+✦ Jira
   
 ✦ Soft Skills
   • Communication
