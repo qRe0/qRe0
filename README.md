@@ -8,9 +8,6 @@ In my free time I prefer to do sports (cycling, volleyball, gym), read books, wa
 ## SKILLS
 <pre>
 ✦ Golang
-  • WEB-Scrapping — colly
-  • WEB — Gin, net/http
-  • Databases — database/sql
   
 ✦ Mathematics
   • Linear algebra
