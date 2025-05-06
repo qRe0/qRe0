@@ -1,6 +1,6 @@
 # ABOUT ME:
 Hello there! My name is Yahor Malinouski<br>
-As a software engineer with more then 1 year of experience, I'm excellent in writing clean and efficient Go code. I am eager to learn new technologies and continually improve my skills by staying up-to-date with industry trends. I have had the opportunity to work in both small local teams and large international teams. I have no problem working with widely located teams and can easily avoid timezone glitches.
+As a software engineer with 2 years of experience, I'm excellent in writing clean and efficient Go code. I am eager to learn new technologies and continually improve my skills by staying up-to-date with industry trends. I have had the opportunity to work in both small local teams and large international teams. I have no problem working with widely located teams and can easily avoid timezone glitches.
 
 ---
 
